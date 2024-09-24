@@ -28,8 +28,8 @@ STEP-10 Release the video capture and close any OpenCV windows (cap.release() an
 
 ## PROGRAM:
 ```
-Name: DEEPAK RAJ S
-Reg no: 212222240023
+Name: BOOBESH PM
+Reg no: 212222233001
 ```
 ```
 import cv2
